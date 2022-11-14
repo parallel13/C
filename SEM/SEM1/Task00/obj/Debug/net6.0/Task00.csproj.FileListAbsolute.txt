@@ -1,0 +1,15 @@
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/bin/Debug/net6.0/Task00
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/bin/Debug/net6.0/Task00.deps.json
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/bin/Debug/net6.0/Task00.runtimeconfig.json
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/bin/Debug/net6.0/Task00.dll
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/bin/Debug/net6.0/ref/Task00.dll
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/bin/Debug/net6.0/Task00.pdb
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/obj/Debug/net6.0/Task00.csproj.AssemblyReference.cache
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/obj/Debug/net6.0/Task00.GeneratedMSBuildEditorConfig.editorconfig
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/obj/Debug/net6.0/Task00.AssemblyInfoInputs.cache
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/obj/Debug/net6.0/Task00.AssemblyInfo.cs
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/obj/Debug/net6.0/Task00.csproj.CoreCompileInputs.cache
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/obj/Debug/net6.0/Task00.dll
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/obj/Debug/net6.0/ref/Task00.dll
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/obj/Debug/net6.0/Task00.pdb
+/home/vm1/Desktop/les/C_EX/SEM/SEM1/Task00/obj/Debug/net6.0/Task00.genruntimeconfig.cache
