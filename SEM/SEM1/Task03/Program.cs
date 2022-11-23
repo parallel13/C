@@ -22,7 +22,7 @@ case 5:
 Console.WriteLine("пятница");
 break;
 
-case 6:
+case 6:ы
 Console.WriteLine("суббота");
 break;
 case 7:
