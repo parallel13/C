@@ -10,3 +10,6 @@ if (number >= 100 && number <= 999)
     System.Console.WriteLine($"Последняя цифра числа => {lastDigit}");
 }
 
+else Console.WriteLine("Введенное число не трехзначное");
+
+
